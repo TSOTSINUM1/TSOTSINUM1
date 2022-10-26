@@ -1,0 +1,12 @@
+echo "# TSOTSINUM1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TSOTSINUM1/TSOTSINUM1.git
+git push -u origin main$ apt update
+
+$ apt install git -y
+
+$ pkg install git clone https://github.com/htr-tech/termux-login.git
+
